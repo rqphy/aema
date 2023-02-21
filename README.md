@@ -1,5 +1,7 @@
 # aema
 
+/!\ The code won’t be displayed because it’s a private project.
+
 ## The idea
 
 AEMA wanted to update their website. It’s a beautiful landing page that just need better performance and few bug patches. They also want their social media posts on the website.
