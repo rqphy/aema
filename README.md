@@ -10,7 +10,7 @@ First, I’ll remake the a proper header. They want it to change when you scroll
 
 Then I’ll have to find a library to handle scroll animations.
 
-[Live]([https://aemagroupe.fr/](https://aemagroupe.fr/))
+[Live](https://aemagroupe.fr/)
 
 ## Some issues
 
